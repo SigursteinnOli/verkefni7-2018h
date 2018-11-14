@@ -9,7 +9,7 @@
 	<script src="main.js"></script>
 	<style>
 		body {
-			background-color: aquamarine;
+			background-color: lightblue;
 		}
 	</style>
 </head>
