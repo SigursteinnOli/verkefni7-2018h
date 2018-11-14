@@ -2,7 +2,7 @@
 #07/11/18
 #Verkefni 7
 
-#from sys import argv
+from sys import argv
 import pymysql
 from bottle import *
 
