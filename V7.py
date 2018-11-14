@@ -71,6 +71,6 @@ def villa(error):
     return "<h1 style = color:red>Þessi síða finnst ekki</h1>"
 
 
-run(debug=True)
-#run(host='0.0.0.0', port=os.environ.get('PORT'))
+#run(debug=True)
+run(host='0.0.0.0', port=os.environ.get('PORT'))
 
